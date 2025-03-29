@@ -42,7 +42,7 @@ With over 8 years of experience as a Fullstack Engineer & 2 years working as a P
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,net,python,nodejs,fastapi,flask,express,nginx,vite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
