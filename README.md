@@ -6,7 +6,7 @@ With over 8 years of experience as a Fullstack Engineer, I'm on a mission to cre
 
   - 🔭 I'm currently working on AI, Blockchain .
   - 🌱 I'm currently learning; Scrum & Scaled Agiles
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
+  - 💬 Ask me about *Python, Javascript, Typescript, React, PHP, Laravel, C#, .NET, FastAPI, Google Cloud Platform, CI/CD, Docker, Kubernetes**
   - ⚡ Fun fact: I love anime and gaming.
 
 <h3 align="left">Connect with me:</h3>
