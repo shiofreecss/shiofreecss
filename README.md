@@ -2,11 +2,11 @@
 
 ### Hello 🌎, I'm Shio
 
-With over 8 years of experience as a Fullstack Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+With over 8 years of experience as a Fullstack Engineer & 2 years working as Project Manager. I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
 
-  - 🔭 I'm currently working on AI, Blockchain .
+  - 🔭 I'm currently working on AI, Blockchain
   - 🌱 I'm currently learning; Scrum & Scaled Agiles
-  - 💬 Ask me about *Python, Javascript, Typescript, React, PHP, Laravel, C#, .NET, FastAPI, Google Cloud Platform, CI/CD, Docker, Kubernetes**
+  - 💬 Ask me about *Python, Javascript, Typescript, React, PHP, Laravel, C#, .NET, FastAPI, Google Cloud Platform, CI/CD, Docker, Kubernetes*
   - ⚡ Fun fact: I love anime and gaming.
 
 <h3 align="left">Connect with me:</h3>
