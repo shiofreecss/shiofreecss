@@ -4,10 +4,19 @@
 
 With over 8 years of experience as a Fullstack Engineer & 2 years working as a Project Manager. I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
 
-  - 🔭 I'm currently working on AI, Blockchain
-  - 🌱 I'm currently learning; Scrum & Scaled Agiles
-  - 💬 Ask me about *Python, Javascript, Typescript, React, PHP, Laravel, C#, .NET, FastAPI, Google Cloud Platform, CI/CD, Docker, Kubernetes*
-  - ⚡ Fun fact: I love anime and gaming.
+✨ About Me
+🚀 MVP Builder & App Developer – Specializing in AI & Blockchain, especially in Financial Environments
+📚 Currently learning Scrum & Scaled Agile to improve workflow & scalability
+
+🛠️ Tech Stack & Expertise
+💻 Backend & Cloud: Python, Go, Node.js, FastAPI, Google Cloud Platform, Docker, Kubernetes, CI/CD
+📱 Frontend & Mobile: JavaScript, TypeScript, React Native
+🔗 Blockchain & Smart Contracts: Solidity, Rust
+🖥 Windows App Development: C#, .NET
+
+💡 More About Me
+🎮 Fun Fact: I love anime, go game & ping pong.
+💬 Ask Me About: Building scalable APIs, AI integrations, blockchain protocols, and financial applications
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
