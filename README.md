@@ -2,21 +2,26 @@
 
 ### Hello 🌎, I'm Shio
 
-With over 8 years of experience as a Fullstack Engineer & 2 years working as a Project Manager. I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+<blockquote>
+With over 8 years of experience as a Fullstack Engineer & 2 years working as a Project Manager. I'm on a mission to create technology solutions that connect the digital world with real life! I develop frontend and backend solutions for both revolutionary startups and enterprise projects. I'm passionate about clean code and user-centered design, thriving in innovative environments focused on continuous growth.
+</blockquote>
 
-✨ About Me
-🚀 MVP Builder & App Developer – Specializing in AI & Blockchain, especially in Financial Environments
-📚 Currently learning Scrum & Scaled Agile to improve workflow & scalability
+## ✨ About Me
 
-🛠️ Tech Stack & Expertise
-💻 Backend & Cloud: Python, Go, Node.js, FastAPI, Google Cloud Platform, Docker, Kubernetes, CI/CD
-📱 Frontend & Mobile: JavaScript, TypeScript, React Native
-🔗 Blockchain & Smart Contracts: Solidity, Rust
-🖥 Windows App Development: C#, .NET
+- 🧠 **Professional Focus**: Fullstack Engineer (8+ years) & Project Manager (2+ years)
+- 🚀 **Specialization**: MVP Builder & App Developer in AI & Blockchain for Financial Environments
+- 📚 **Currently Learning**: Scrum & Scaled Agile to improve workflow & scalability
+- 💬 **Ask Me About**: Building scalable APIs, AI integrations, blockchain protocols, and financial applications
+- 🎮 **Fun Facts**: I love anime, Go (board game) & ping pong
 
-💡 More About Me
-🎮 Fun Fact: I love anime, go game & ping pong.
-💬 Ask Me About: Building scalable APIs, AI integrations, blockchain protocols, and financial applications
+## 🛠️ Tech Stack & Expertise
+
+| **Category** | **Technologies** |
+|--------------|------------------|
+| 💻 Backend & Cloud | Python, Go, Node.js, FastAPI, Google Cloud Platform, Docker, Kubernetes, CI/CD |
+| 📱 Frontend & Mobile | JavaScript, TypeScript, React Native |
+| 🔗 Blockchain | Solidity, Rust |
+| 🖥️ Windows App | C#, .NET |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
