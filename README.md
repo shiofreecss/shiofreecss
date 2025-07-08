@@ -3,7 +3,7 @@
 ### Hello 🌎, I'm Shio
 
 <blockquote>
-With over 8 years of experience as a Fullstack Engineer & 2 years working as a Project Manager. I'm on a mission to create technology solutions that connect the digital world with real life! I develop frontend and backend solutions for both revolutionary startups and enterprise projects. I'm passionate about clean code and user-centered design, thriving in innovative environments focused on continuous growth.
+With over 8 years of experience as a Fullstack Engineer & 3 years working as a Project Manager. I'm on a mission to create technology solutions that connect the digital world with real life! I develop frontend and backend solutions for both revolutionary startups and enterprise projects. I'm passionate about clean code and user-centered design, thriving in innovative environments focused on continuous growth.
 </blockquote>
 
 ## ✨ About Me
