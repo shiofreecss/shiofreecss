@@ -8,7 +8,7 @@ With over 8 years of experience as a Fullstack Engineer & 3 years working as a P
 
 ## ✨ About Me
 
-- 🧠 **Professional Focus**: Fullstack Engineer (8+ years) & Project Manager (2+ years)
+- 🧠 **Professional Focus**: Fullstack Engineer (8+ years) & Project Manager (3+ years)
 - 🚀 **Specialization**: MVP Builder & App Developer in AI & Blockchain for Financial Environments
 - 📚 **Currently Learning**: Scrum & Scaled Agile to improve workflow & scalability
 - 💬 **Ask Me About**: Building scalable APIs, AI integrations, blockchain protocols, and financial applications
